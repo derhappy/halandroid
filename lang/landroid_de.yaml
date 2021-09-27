@@ -30,11 +30,11 @@ homeassistant:
     sensor.landroid_wifi:
       friendly_name: WLAN Qualität
     sensor.landroid_yaw:
-      friendly_name: Gieren/Рысканье
+      friendly_name: Gieren
     sensor.landroid_roll:
-      friendly_name: Rollen/Крен
+      friendly_name: Rollen
     sensor.landroid_pitch:
-      friendly_name: Nicken/Тангаж
+      friendly_name: Nicken
 
 # Input Number ####
     input_number.landroid_raindelay:
